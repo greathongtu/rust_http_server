@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./http/Cargo.toml",
+        "./http/Cargo.toml",
+        "./http/Cargo.toml",
+        "./http/Cargo.toml",
+        "./http/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
